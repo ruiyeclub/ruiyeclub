@@ -1,3 +1,4 @@
+### Hi there 👋
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Happy.gif" width="27px">
   <br><br>
@@ -7,7 +8,7 @@
       <br><em>receive recognition</em> for the amazing things that
     <br>you do in your software communities :sparkles:<br><br>
     <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Pikachu.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/Swanpor">Twitter</a>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="http://www.ruiyeclub.cn/">Blog</a>
   </samp>
 </p>
 
@@ -18,7 +19,6 @@
   I want to make a little game this year. that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 
-### Hi there 👋
 <img alt="黄前久美子 ✕ 绫波丽 角色变换！" src="https://wx3.sinaimg.cn/large/4764ae2aly1gnl92syw60g20cg0b2whm.gif" width="224px">
 -->
 
