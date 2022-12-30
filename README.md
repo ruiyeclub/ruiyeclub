@@ -16,11 +16,7 @@
   <summary><b>:telescope: 2022 goal</b></summary>
   <br>
   ✨世界和平✨
-<div>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruiyeclub&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" />
-  </a>
-</div>
+  ![](https://komarev.com/ghpvc/?username=anhtuan45&color=green)
 </details>
 
 <!--
