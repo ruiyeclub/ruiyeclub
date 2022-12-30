@@ -17,7 +17,7 @@
   <br>
   ✨世界和平✨
 </details>
-![](https://komarev.com/ghpvc/?username=ruiyeclub&color=green)
+<img src="https://komarev.com/ghpvc/?username=ruiyeclub&color=green">
 
 <!--
 <img alt="黄前久美子 ✕ 绫波丽 角色变换！" src="https://wx3.sinaimg.cn/large/4764ae2aly1gnl92syw60g20cg0b2whm.gif" width="224px">
