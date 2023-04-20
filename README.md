@@ -12,7 +12,9 @@
   </samp>
 </p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiyeclub&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/ruiyeclub)
+-->
 
 <details>
   <summary><b>:telescope: 2022 goal</b></summary>
