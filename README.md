@@ -8,7 +8,7 @@
       <br><em>receive recognition</em> for the amazing things that
     <br>you do in your software communities :sparkles:<br><br>
     <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Pikachu.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="http://ray4j.top/">Blog</a>
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="http://ruiyeclub.cn/">Blog</a>
   </samp>
 </p>
 
