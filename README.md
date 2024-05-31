@@ -1,14 +1,30 @@
-[//]: # (### Hi there 👋)
+### Hi there 👋
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Happy.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I design for GitHub.
+    <br>My current work focuses on enabling all of y'all to
+      <br><em>receive recognition</em> for the amazing things that
+    <br>you do in your software communities :sparkles:<br><br>
+    <img src="https://cdn.jsdelivr.net/gh/Semporia/Semporia@master/image/Pikachu.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://ruiyeclub.cn/">Blog</a>
+  </samp>
+</p>
 
 <!-- dynamic typing effect 动态打字效果 -->
+<!--
 <div align="center">
 <a href="https://blog.sunguoqi.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);RuiyeClub&center=true&size=27" alt="Typing SVG" />
 </a>
 </div>
+-->
 
 <!-- knock code pictures 敲代码的图片 -->
+<!--
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruiyeclub&langs_count=8&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=27282200)](https://github.com/ruiyeclub)
